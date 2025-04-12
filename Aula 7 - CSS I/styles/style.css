@@ -1,0 +1,11 @@
+p {
+    font-size: 168px;
+    color: #02cc45;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+p:hover {
+    cursor: pointer;
+    color: orange;
+    transition: .5s;
+}
